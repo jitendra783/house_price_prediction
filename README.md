@@ -40,7 +40,6 @@ house price prediction a machine learning model
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -100,10 +99,5 @@ Contributions are what make the open source community such an amazing place to b
   
   linkedin:  https://www.linkedin.com/in/jitendra-choudhary-4671301bb/
   
-  
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Product Name Screen Shot]: Images/Landing-Page-SS.png
-[product-screenshot]: Images/about-us-rec.gif
 
 
