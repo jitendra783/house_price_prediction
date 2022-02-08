@@ -20,24 +20,6 @@ house price prediction a machine learning model
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Stars][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/shivangi060/Travelog">
-    <img src="Images\alps_favicon.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">house_price_predition</h3>
-
-
 
 
 <!-- TABLE OF CONTENTS -->
