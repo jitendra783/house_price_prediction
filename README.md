@@ -93,7 +93,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 # contact
-  github: https://github.com/techjitu
+  github: https://github.com/jitendra783
   
   gmail:  @jitendra54choudhary@gmail.com
   
