@@ -1,26 +1,12 @@
 # house_price_prediction
-house price prediction a machine learning model
+House Price Prediction – A machine learning project to predict housing prices using regression models.
 
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the TravelLog and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+*** Thanks for checking out the House Price Prediction Project.
+*** If you have suggestions, feel free to fork this repo, create a pull request,
+*** or open an issue with the tag "enhancement".
+*** Happy Coding!
 -->
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -39,43 +25,49 @@ house price prediction a machine learning model
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-
+---
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot]]()
+This project uses machine learning techniques to predict housing prices based on various features such as square footage, number of bedrooms, and more. The project includes:
 
-
-![product-screenshot]
-
+- Linear Regression
+- Lasso Regression with GridSearchCV
+- Decision Tree Regression with GridSearchCV
+- Model evaluation using MSE and Cross-Validation
 
 ### Built With
 
-* [python,machine learning]()
+* Python
+* scikit-learn
+* pandas
+* jupyter notebook
 
-
-
+---
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To run this project locally, follow the instructions below.
 
 ### Prerequisites
 
-1. jupyter notebook
-   * [Download]()
-   * [Install]()
-2. IDE of choice - e.g. [VSCode](https://code.visualstudio.com/download)
-3. Web Browser of choice - e.g. [Google Chrome](https://www.google.com/intl/en_in/chrome/) 
+Before you begin, ensure you have the following installed:
+- Python 3.x
+- pip
+- Jupyter Notebook or any IDE (e.g., VSCode)
 
-### Installation
+You can install required packages using pip:
+
+```bash
+pip install pandas scikit-learn jupyter
 
 
 <!-- CONTRIBUTING -->
