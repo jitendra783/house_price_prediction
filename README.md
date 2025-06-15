@@ -68,7 +68,7 @@ You can install required packages using pip:
 
 ```bash
 pip install pandas scikit-learn jupyter
-
+```
 
 <!-- CONTRIBUTING -->
 ## Contributing
